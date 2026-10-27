@@ -88,3 +88,5 @@ jobs:
         with:
           name: ishtar-kernel
           path: out/
+
+# fork: activated by a no-op push so the kernel build can run here
